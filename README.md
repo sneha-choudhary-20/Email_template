@@ -1,8 +1,8 @@
-# Coffee Responsive Email Template
+## Coffee Responsive Email Template
 
-# This project is done using HTML & CSS
+### This project is done using HTML & CSS
 
-## Features:
+### Features:
 - Fully responsive design
 - Clean and modern layout
 - Easy to customize
